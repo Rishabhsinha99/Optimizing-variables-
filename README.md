@@ -4,6 +4,7 @@ The number and variables optimized through Regularization technique without affe
 
 About the dataset
 The dataset selected for implementation of the proposed approach is- ‘MALWARE ANALYSIS DATASETS: TOP-1000 PE IMPORTS’. The dataset is contributed by Angelo Oliveira which is a part of his P.hD research. It contains 1000 imported functions extracted from ‘pe_imports’ of static analysis techniques.
+
 The dataset contains 1929 benign program (good-ware) and 45651 malwares, 1000 PE imported functions. These 1000 features each have a binary class of being imported (1) or not (0).
 
 
